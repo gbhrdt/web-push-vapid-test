@@ -1,0 +1,17 @@
+{
+  "name": "web-push-vapid-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asn1.js": "^5.0.0",
+    "jsonwebtoken": "^8.1.1",
+    "urlsafe-base64": "^1.0.0",
+    "web-push": "^3.4.2"
+  }
+}
